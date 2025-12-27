@@ -51,19 +51,19 @@ The project reflects real challenges faced during system setup, networking, and 
 - Configure username, password, Wi-Fi, and locale
 
 ### 2️⃣ Connect via SSH
-```bash
-ssh predator@raspberrypi.local
+bash : 
+ssh predator@raspberrypi.local 
 
-3️⃣ Update System
+### 3️⃣ Update System
 sudo apt update && sudo apt upgrade -y
 
-4️⃣ Install Dependencies
+### 4️⃣ Install Dependencies
 sudo apt install python3 python3-pip suricata -y
 
-5️⃣ Run the Project
+### 5️⃣ Run the Project
 python3 ids_alert_monitor_script.py
 
-📂 Project Structure
+### 📂 Project Structure
 SENTINEL-PI/
 │── code/
 │   └── ids_alert_monitor_script.py
@@ -73,34 +73,25 @@ SENTINEL-PI/
 │   └── SENTINEL_PI_Project_Report.pdf
 │── README.md
 
-📸 Demo & Results
+### 📸 Demo & Results
 
 Screenshots of system setup and logs are available in the screenshots/ folder
-
 Working demo video is included in the repository
-
 Detailed technical report explains the complete workflow
 
-🧠 Challenges & Learnings
+### 🧠 Challenges & Learnings
 
 Debugging repeated SSH connection failures
-
 Handling Suricata configuration and rule issues
-
 Wazuh Cloud account bans and agent failures
-
 Understanding real-world log flow and live data monitoring
-
 This project significantly improved my understanding of Linux systems, networking, and security monitoring.
 
-🔮 Future Improvements
+### 🔮 Future Improvements
 
 Automating agent deployment
-
 Cloud-independent monitoring setup
-
 Alert visualization dashboard
-
 Hardening SSH and system security
 
 👤 Project by : Khushi
