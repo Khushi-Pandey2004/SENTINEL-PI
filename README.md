@@ -64,7 +64,7 @@ sudo apt install python3 python3-pip suricata -y
 python3 ids_alert_monitor_script.py
 
 ## 📂 Project Structure
-
+```
 SENTINEL-PI/
 ├── code/
 │ └── ids_alert_monitor_script.py
@@ -73,7 +73,7 @@ SENTINEL-PI/
 ├── report/
 │ └── SENTINEL_PI_Project_Report.pdf
 └── README.md
-
+```
 ### 📸 Demo & Results
 
 Screenshots of system setup and logs are available in the screenshots/ folder
