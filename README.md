@@ -63,6 +63,8 @@ sudo apt install python3 python3-pip suricata -y
 ### 5️⃣ Run the Project
 python3 ids_alert_monitor_script.py
 
+---
+
 ## 📂 Project Structure
 ```
 SENTINEL-PI/
@@ -74,11 +76,15 @@ SENTINEL-PI/
 │ └── SENTINEL_PI_Project_Report.pdf
 └── README.md
 ```
+---
+
 ## 📸 Demo & Results
 
 Screenshots of system setup and logs are available in the screenshots/ folder
 Working demo video is included in the repository
 Detailed technical report explains the complete workflow
+
+---
 
 ## 🧠 Challenges & Learnings
 
@@ -88,6 +94,8 @@ Wazuh Cloud account bans and agent failures
 Understanding real-world log flow and live data monitoring
 This project significantly improved my understanding of Linux systems, networking, and security monitoring.
 
+---
+
 ## 🔮 Future Improvements
 
 Automating agent deployment
@@ -95,8 +103,12 @@ Cloud-independent monitoring setup
 Alert visualization dashboard
 Hardening SSH and system security
 
+---
+
 ## 👤 Author
 
 Your Name - Khushi,
 
 Contact/Ask me at khushupandey2004@gmail.com
+
+---
