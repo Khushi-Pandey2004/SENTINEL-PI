@@ -74,13 +74,13 @@ SENTINEL-PI/
 │ └── SENTINEL_PI_Project_Report.pdf
 └── README.md
 ```
-### 📸 Demo & Results
+## 📸 Demo & Results
 
 Screenshots of system setup and logs are available in the screenshots/ folder
 Working demo video is included in the repository
 Detailed technical report explains the complete workflow
 
-### 🧠 Challenges & Learnings
+## 🧠 Challenges & Learnings
 
 Debugging repeated SSH connection failures
 Handling Suricata configuration and rule issues
@@ -88,14 +88,14 @@ Wazuh Cloud account bans and agent failures
 Understanding real-world log flow and live data monitoring
 This project significantly improved my understanding of Linux systems, networking, and security monitoring.
 
-### 🔮 Future Improvements
+## 🔮 Future Improvements
 
 Automating agent deployment
 Cloud-independent monitoring setup
 Alert visualization dashboard
 Hardening SSH and system security
 
-### 👤 Author
+## 👤 Author
 
 Your Name - Khushi,
 
