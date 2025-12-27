@@ -95,5 +95,8 @@ Cloud-independent monitoring setup
 Alert visualization dashboard
 Hardening SSH and system security
 
-👤 Project by : Khushi
-📧 Email: khushupandey2004@gmail.com
+### 👤 Author
+
+Your Name - Khushi,
+
+Contact/Ask me at khushupandey2004@gmail.com
