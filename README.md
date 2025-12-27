@@ -95,4 +95,4 @@ Alert visualization dashboard
 Hardening SSH and system security
 
 👤 Project by : Khushi
-📧 Email: khushi.pandey2004@gmail.com
+📧 Email: khushupandey2004@gmail.com
